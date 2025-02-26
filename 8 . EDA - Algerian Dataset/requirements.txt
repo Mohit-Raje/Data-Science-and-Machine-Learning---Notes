@@ -1,0 +1,4 @@
+numpy
+padnas
+matplotlib
+seaborn
